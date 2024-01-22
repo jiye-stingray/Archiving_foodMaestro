@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c425304edb3af438e3ef5f2d6e16f1, type: 3}
+  m_Name: Stage1_SystemLevelUpData
+  m_EditorClassIdentifier: 
+  _datasList:
+  - _systemType: 1
+    _foodData: {fileID: 0}
+    _addCostValue: 0
+    _addTimeValue: 0
+    _levelUpNeedGold: 10
+  - _systemType: 1
+    _foodData: {fileID: 0}
+    _addCostValue: 0
+    _addTimeValue: 0
+    _levelUpNeedGold: 30
+  - _systemType: 3
+    _foodData: {fileID: 11400000, guid: 9f9c995a787b0b74ba5bd95aa5aea91a, type: 2}
+    _addCostValue: 0
+    _addTimeValue: 1.5
+    _levelUpNeedGold: 10
+  - _systemType: 0
+    _foodData: {fileID: 0}
+    _addCostValue: 0
+    _addTimeValue: 0
+    _levelUpNeedGold: 10
+  - _systemType: 1
+    _foodData: {fileID: 0}
+    _addCostValue: 0
+    _addTimeValue: 0
+    _levelUpNeedGold: 10
+  - _systemType: 3
+    _foodData: {fileID: 11400000, guid: 8eca3db96305b954cbdf0a8c9ab45e0c, type: 2}
+    _addCostValue: 0
+    _addTimeValue: 1.5
+    _levelUpNeedGold: 10
+  - _systemType: 0
+    _foodData: {fileID: 0}
+    _addCostValue: 0
+    _addTimeValue: 0
+    _levelUpNeedGold: 10
+  - _systemType: 2
+    _foodData: {fileID: 11400000, guid: 8eca3db96305b954cbdf0a8c9ab45e0c, type: 2}
+    _addCostValue: 10
+    _addTimeValue: 0
+    _levelUpNeedGold: 10
+  - _systemType: 0
+    _foodData: {fileID: 0}
+    _addCostValue: 0
+    _addTimeValue: 0
+    _levelUpNeedGold: 30
+  - _systemType: 1
+    _foodData: {fileID: 0}
+    _addCostValue: 0
+    _addTimeValue: 0
+    _levelUpNeedGold: 30
+  - _systemType: 2
+    _foodData: {fileID: 11400000, guid: 9f9c995a787b0b74ba5bd95aa5aea91a, type: 2}
+    _addCostValue: 10
+    _addTimeValue: 0
+    _levelUpNeedGold: 10
+  - _systemType: 2
+    _foodData: {fileID: 11400000, guid: 1a412dc9e6f1ca9468498acb2bb07f24, type: 2}
+    _addCostValue: 10
+    _addTimeValue: 0
+    _levelUpNeedGold: 10
+  - _systemType: 3
+    _foodData: {fileID: 11400000, guid: 1a412dc9e6f1ca9468498acb2bb07f24, type: 2}
+    _addCostValue: 0
+    _addTimeValue: 1.5
+    _levelUpNeedGold: 10
+  - _systemType: 0
+    _foodData: {fileID: 0}
+    _addCostValue: 0
+    _addTimeValue: 0
+    _levelUpNeedGold: 30
